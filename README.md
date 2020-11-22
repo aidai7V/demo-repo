@@ -5,10 +5,7 @@ Some description!
 ## Subheader
 
 Watch tutorial on YouTube
-<<<<<<< HEAD
 
 ## Local Development
 
 1. Open index.html in your browser
-=======
->>>>>>> main
